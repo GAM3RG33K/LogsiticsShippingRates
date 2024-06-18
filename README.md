@@ -1,4 +1,4 @@
-# LogsiticsShippingRates
+# github-final-project
 
 Please consider the below factors while contributing
 
